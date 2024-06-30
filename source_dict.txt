@@ -1,10 +1,18 @@
-SENT-END	sil
-SENT-START	sil
+!ENTER	sil
+!EXIT	sil
+^e	cc e
+{esnaest	S e s n a e s t
+{est	S e s t
+~etiri	C e t i r i
+~etrdeset	C e t r d e s e t
+~etrnaest	C e t r n a e s t
+~e{^i	C e S cc i
+~vora	C v o r a
+~vorova	C v o r o v a
 <glazba>	glazba
 <papir>	papir
 <sil>	sil
 <uzdah>	uzdah
-^e	cc e
 a	a
 ali	a l i
 bit	b i t
@@ -249,11 +257,3 @@ zapadu	z a p a d u
 zapuhat	z a p u h a t
 zavoda	z a v o d a
 zbog	z b o g
-{esnaest	S e s n a e s t
-{est	S e s t
-~etiri	C e t i r i
-~etrdeset	C e t r d e s e t
-~etrnaest	C e t r n a e s t
-~e{^i	C e S cc i
-~vora	C v o r a
-~vorova	C v o r o v a

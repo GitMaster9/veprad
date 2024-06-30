@@ -16,8 +16,25 @@ def extract_and_sort_unique_words(file_path):
             words = transcription.split()
             unique_words.update(words)
 
+    # Initialize lists to store words in different categories
+    special_words = []
+    lt_words = []
+    normal_words = []
+
+    for word in unique_words:
+        if word.startswith("<"):
+            lt_words.append(word)
+        elif word[0].isalnum():
+            normal_words.append(word)
+        else:
+            special_words.append(word)
+
     # Sort the words alphabetically
-    sorted_unique_words = sorted(unique_words)
+    sorted_special_words = sorted(special_words)
+    sorted_lt_words = sorted(lt_words)
+    sorted_normal_words = sorted(normal_words)
+
+    sorted_unique_words = sorted_special_words + sorted_lt_words + sorted_normal_words
 
     return sorted_unique_words
 
@@ -35,8 +52,8 @@ output_file_path = 'wlist.txt'
 sorted_unique_words = extract_and_sort_unique_words(file_path)
 
 wlist = []
-wlist.append("SENT-END")
-wlist.append("SENT-START")
+wlist.append("!ENTER")
+wlist.append("!EXIT")
 wlist.extend(sorted_unique_words)
 
 # Print the sorted unique words

@@ -1,7 +1,7 @@
 def process_word(word):
     special_words = {
-        'SENT-END': 'sil',
-        'SENT-START': 'sil',
+        '!ENTER': 'sil',
+        '!EXIT': 'sil',
         '<sil>': 'sil',
         '<uzdah>': 'uzdah',
         '<papir>': 'papir',
