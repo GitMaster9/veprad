@@ -1,5 +1,5 @@
-!ENTER	[!ENTER]	sil
-!EXIT	[!EXIT]	sil
+SENT-END	[SENT-END]	sil
+SENT-START	[SENT-START]	sil
 ^e	[^e]	cc e
 {amac	[{amac]	S a m a c
 {esnaest	[{esnaest]	S e s n a e s t
@@ -21,9 +21,9 @@
 ~etrnaest	[~etrnaest]	C e t r n a e s t
 ~vora	[~vora]	C v o r a
 ~vorova	[~vorova]	C v o r o v a
-<greska> 	[<greska> ]	greska
+<greska> 	[<greska>]	greska
 <papir>	[<papir>]	papir
-<sil>   	[<sil>   ]	sil
+<sil>   	[<sil>]	sil
 <uzdah>	[<uzdah>]	uzdah
 a	[a]	a
 ali	[ali]	a l i

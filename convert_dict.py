@@ -1,7 +1,7 @@
 import re
 
 # Open the input file and read the content
-with open('nes.txt', 'r') as file:
+with open('merlin_dict.txt', 'r') as file:
     lines = file.readlines()
 
 # Process each line
