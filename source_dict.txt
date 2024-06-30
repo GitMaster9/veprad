@@ -4,7 +4,7 @@ SENT-START	sil
 <papir>	papir
 <sil>	sil
 <uzdah>	uzdah
-^e	c c e
+^e	cc e
 a	a
 ali	a l i
 bit	b i t
@@ -42,7 +42,7 @@ istoku	i s t o k u
 isto~ni	i s t o C n i
 isto~njak	i s t o C n j a k
 istre	i s t r e
-izme}u	i z m e d z u
+izme}u	i z m e dz u
 izra`eni	i z r a Z e n i
 izra`eniji	i z r a Z e n i j i
 izvje{taj	i z v j e S t a j
@@ -89,11 +89,11 @@ meteorolo{kog	m e t e o r o l o S k o g
 mjestimice	m j e s t i m i c e
 mo`e	m o Z e
 mogu	m o g u
-mogu^	m o g u c c
-mogu^a	m o g u c c a
-mogu^e	m o g u c c e
-mogu^i	m o g u c c i
-mogu^nost	m o g u c c n o s t
+mogu^	m o g u cc
+mogu^a	m o g u cc a
+mogu^e	m o g u cc e
+mogu^i	m o g u cc i
+mogu^nost	m o g u cc n o s t
 mora	m o r a
 more	m o r e
 moru	m o r u
@@ -114,8 +114,8 @@ neverin	n e v e r i n
 neverini	n e v e r i n i
 nevremena	n e v r e m e n a
 no	n o
-no^i	n o c c i
-no^u	n o c c u
+no^i	n o cc i
+no^u	n o cc u
 o	o
 obalu	o b a l u
 obilnije	o b i l n i j e
@@ -151,7 +151,7 @@ poslijepodne	p o s l i j e p o d n e
 postoji	p o s t o j i
 postupni	p o s t u p n i
 posve	p o s v e
-pove^anu	p o v e c c a n u
+pove^anu	p o v e cc a n u
 povremeno	p o v r e m e n o
 po~etku	p o C e t k u
 prema	p r e m a
@@ -232,8 +232,8 @@ umjerenu	u m j e r e n u
 unutra{njosti	u n u t r a S n j o s t i
 upozorenje	u p o z o r e n j e
 uz	u z
-ve^em	v e c c e m
-ve^inom	v e c c i n o m
+ve^em	v e cc e m
+ve^inom	v e cc i n o m
 vedro	v e d r o
 vidljivost	v i d l j i v o s t
 vjerojatnost	v j e r o j a t n o s t
@@ -242,7 +242,7 @@ vjetra	v j e t r a
 vremenska	v r e m e n s k a
 vremenu	v r e m e n u
 vrlo	v r l o
-vru^e	v r u c c e
+vru^e	v r u cc e
 za	z a
 zapadnim	z a p a d n i m
 zapadu	z a p a d u
@@ -254,6 +254,6 @@ zbog	z b o g
 ~etiri	C e t i r i
 ~etrdeset	C e t r d e s e t
 ~etrnaest	C e t r n a e s t
-~e{^i	C e S c c i
+~e{^i	C e S cc i
 ~vora	C v o r a
 ~vorova	C v o r o v a

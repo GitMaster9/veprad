@@ -21,12 +21,12 @@ def process_word(word):
         '`': 'Z',
         '}': 'dz',
     }
-    
-    for old, new in replacements.items():
-        word = word.replace(old, new)
-    
+
     # Separate every letter by a space
     spaced_word = ' '.join(list(word))
+    
+    for old, new in replacements.items():
+        spaced_word = spaced_word.replace(old, new)
     
     return spaced_word
 
