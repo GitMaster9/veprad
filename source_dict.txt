@@ -1,0 +1,259 @@
+SENT-END	sil
+SENT-START	sil
+<glazba>	glazba
+<papir>	papir
+<sil>	sil
+<uzdah>	uzdah
+^e	c c e
+a	a
+ali	a l i
+bit	b i t
+biti	b i t i
+bura	b u r a
+bure	b u r e
+centra	c e n t r a
+dalmacije	d a l m a c i j e
+dalmaciji	d a l m a c i j i
+dana	d a n a
+danas	d a n a s
+deset	d e s e t
+devet	d e v e t
+devetnaest	d e v e t n a e s t
+dijelu	d i j e l u
+djelomice	d j e l o m i c e
+dnevna	d n e v n a
+do	d o
+dr`avnoga	d r Z a v n o g a
+drugdje	d r u g d j e
+drugom	d r u g o m
+dva	d v a
+dvadeset	d v a d e s e t
+dvanaest	d v a n a e s t
+gorju	g o r j u
+gorskoj	g o r s k o j
+grmljavina	g r m l j a v i n a
+grmljavinom	g r m l j a v i n o m
+grmljavinu	g r m l j a v i n u
+hidrometeorolo{kog	h i d r o m e t e o r o l o S k o g
+hrvatskoj	h r v a t s k o j
+i	i
+ili	i l i
+istoku	i s t o k u
+isto~ni	i s t o C n i
+isto~njak	i s t o C n j a k
+istre	i s t r e
+izme}u	i z m e d z u
+izra`eni	i z r a Z e n i
+izra`eniji	i z r a Z e n i j i
+izvje{taj	i z v j e S t a j
+jadran	j a d r a n
+jadrana	j a d r a n a
+jadranu	j a d r a n u
+jak	j a k
+ja~a	j a C a
+ja~e	j a C e
+ja~i	j a C i
+je	j e
+jedan	j e d a n
+jedanaest	j e d a n a e s t
+jo{	j o S
+ju`ni	j u Z n i
+ju`nije	j u Z n i j e
+ju`nom	j u Z n o m
+ju`nome	j u Z n o m e
+juga	j u g a
+jugo	j u g o
+jugoisto~ni	j u g o i s t o C n i
+jugozapadni	j u g o z a p a d n i
+jugozapadnjak	j u g o z a p a d n j a k
+jugozapadnjaka	j u g o z a p a d n j a k a
+jugu	j u g u
+jutarnja	j u t a r n j a
+kilometara	k i l o m e t a r a
+ki{a	k i S a
+ki{e	k i S e
+ki{om	k i S o m
+ki{u	k i S u
+koji	k o j i
+krajevima	k r a j e v i m a
+krajnjem	k r a j n j e m
+kranjem	k r a n j e m
+kratkotrajno	k r a t k o t r a j n o
+lici	l i c i
+lokalno	l o k a l n o
+magla	m a g l a
+mala	m a l a
+malo	m a l o
+manjem	m a n j e m
+meteorolo{kog	m e t e o r o l o S k o g
+mjestimice	m j e s t i m i c e
+mo`e	m o Z e
+mogu	m o g u
+mogu^	m o g u c c
+mogu^a	m o g u c c a
+mogu^e	m o g u c c e
+mogu^i	m o g u c c i
+mogu^nost	m o g u c c n o s t
+mora	m o r a
+more	m o r e
+moru	m o r u
+na	n a
+najni`a	n a j n i Z a
+najprije	n a j p r i j e
+najvi{a	n a j v i S a
+naoblaka	n a o b l a k a
+naoblake	n a o b l a k e
+naoblakom	n a o b l a k o m
+naoblaku	n a o b l a k u
+naprije	n a p r i j e
+nave~er	n a v e C e r
+ne	n e
+nestabilno	n e s t a b i l n o
+nevere	n e v e r e
+neverin	n e v e r i n
+neverini	n e v e r i n i
+nevremena	n e v r e m e n a
+no	n o
+no^i	n o c c i
+no^u	n o c c u
+o	o
+obalu	o b a l u
+obilnije	o b i l n i j e
+oblaka	o b l a k a
+obla~no	o b l a C n o
+oborine	o b o r i n e
+od	o d
+oko	o k o
+okrenuti	o k r e n u t i
+okretanju	o k r e t a n j u
+okretat	o k r e t a t
+osam	o s a m
+osamnaest	o s a m n a e s t
+osobito	o s o b i t o
+otvorenom	o t v o r e n o m
+otvorenome	o t v o r e n o m e
+pet	p e t
+petnaest	p e t n a e s t
+pljusak	p l j u s a k
+pljuskove	p l j u s k o v e
+pljuskovi	p l j u s k o v i
+pljuskovima	p l j u s k o v i m a
+poja~an	p o j a C a n
+poja~at	p o j a C a t
+poja~ati	p o j a C a t i
+pomorskog	p o m o r s k o g
+pomorskoga	p o m o r s k o g a
+ponajprije	p o n a j p r i j e
+ponegdje	p o n e g d j e
+poneki	p o n e k i
+porast	p o r a s t
+poslijepodne	p o s l i j e p o d n e
+postoji	p o s t o j i
+postupni	p o s t u p n i
+posve	p o s v e
+pove^anu	p o v e c c a n u
+povremeno	p o v r e m e n o
+po~etku	p o C e t k u
+prema	p r e m a
+prete`ito	p r e t e Z i t o
+prete`no	p r e t e Z n o
+prognoza	p r o g n o z a
+prolazno	p r o l a z n o
+promjenjiva	p r o m j e n j i v a
+promjenjivo	p r o m j e n j i v o
+promjenjivom	p r o m j e n j i v o m
+prvih	p r v i h
+prvom	p r v o m
+razdobljima	r a z d o b l j i m a
+razvoj	r a z v o j
+razvredravanje	r a z v r e d r a v a n j e
+rijetki	r i j e t k i
+s	s
+sa	s a
+samo	s a m o
+sata	s a t a
+sati	s a t i
+se	s e
+sedam	s e d a m
+sedamnaest	s e d a m n a e s t
+sjeverni	s j e v e r n i
+sjevernog	s j e v e r n o g
+sjevernom	s j e v e r n o m
+sjevernome	s j e v e r n o m e
+sjeveroisto~ni	s j e v e r o i s t o C n i
+sjeverozapadni	s j e v e r o z a p a d n i
+sjeverozapadnjak	s j e v e r o z a p a d n j a k
+sjeverozapadnog	s j e v e r o z a p a d n o g
+sjeveru	s j e v e r u
+slab	s l a b
+smanjena	s m a n j e n a
+smirivanje	s m i r i v a n j e
+smjera	s m j e r a
+sparno	s p a r n o
+split	s p l i t
+sredine	s r e d i n e
+sredi{njoj	s r e d i S n j o j
+srednjeg	s r e d n j e g
+srednjega	s r e d n j e g a
+srednjem	s r e d n j e m
+stabilno	s t a b i l n o
+stupanj	s t u p a n j
+stupnja	s t u p n j a
+stupnjeva	s t u p n j e v a
+su	s u
+suho	s u h o
+sumaglice	s u m a g l i c e
+sun~anije	s u n C a n i j e
+sun~anim	s u n C a n i m
+sun~ano	s u n C a n o
+sutra	s u t r a
+svje`ije	s v j e Z i j e
+te	t e
+tek	t e k
+temperatura	t e m p e r a t u r a
+tiho	t i h o
+tijekom	t i j e k o m
+to	t o
+toplije	t o p l i j e
+toplo	t o p l o
+tri	t r i
+trideset	t r i d e s e t
+trinaest	t r i n a e s t
+tu~a	t u C a
+u	u
+udari	u d a r i
+uglavnom	u g l a v n o m
+ujutro	u j u t r o
+umjeren	u m j e r e n
+umjerena	u m j e r e n a
+umjereni	u m j e r e n i
+umjereno	u m j e r e n o
+umjerenu	u m j e r e n u
+unutra{njosti	u n u t r a S n j o s t i
+upozorenje	u p o z o r e n j e
+uz	u z
+ve^em	v e c c e m
+ve^inom	v e c c i n o m
+vedro	v e d r o
+vidljivost	v i d l j i v o s t
+vjerojatnost	v j e r o j a t n o s t
+vjetar	v j e t a r
+vjetra	v j e t r a
+vremenska	v r e m e n s k a
+vremenu	v r e m e n u
+vrlo	v r l o
+vru^e	v r u c c e
+za	z a
+zapadnim	z a p a d n i m
+zapadu	z a p a d u
+zapuhat	z a p u h a t
+zavoda	z a v o d a
+zbog	z b o g
+{esnaest	S e s n a e s t
+{est	S e s t
+~etiri	C e t i r i
+~etrdeset	C e t r d e s e t
+~etrnaest	C e t r n a e s t
+~e{^i	C e S c c i
+~vora	C v o r a
+~vorova	C v o r o v a
