@@ -52,21 +52,21 @@
 */sm03070624101 prete`no sun~ano vrlo toplo i vru^e uglavnom u zapadnim krajevima umjeren razvoj naoblake uz pljuskove
 */sm03070624102 vjetar slab na jadranu od sredine dana i umjeren vjetar s mora
 */sm03070624103 temperatura izme}u dvadeset sedam i trideset jedan stupanj
-*/sm03070624201 <glazba> sutra djelomice sun~ano i nestabilno mjestimice ki{a i pljuskovi s grmljavinom mogu^e izra`eniji na sjevernom jadranu te na zapadu unutra{njosti
-*/sm03070624202 vjetar umjeren jugozapadni a na jadranu jugo
-*/sm03070624203 najni`a temperatura od {esnaest do dvadeset jedan <uzdah> na jadranu izme}u dvadeset i dvadeset ~etiri
-*/sm03070624204 a najvi{a uglavnom od dvadeset pet do trideset stupnjeva
-*/sm03070624205 <uzdah> izvje{taj pomorskoga meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda <uzdah> u devetnaest sati upozorenje
-*/sm03070624206 mjestimice udari juga na otvorenom moru ponegdje i jugozapadnjaka <uzdah>
-*/sm03070624207 na krajnjem sjeveru jadrana i bure od trideset pet do ~etrdeset i pet ~vorova
-*/sm03070624208 ponegdje neverini osobito od sredine no^i na sjevernom <uzdah> i dijelu srednjeg jadrana
-*/sm03070624209 prognoza za jadran za prvih dvanaest sati <uzdah> jugo od deset do dvadeset poja~at ^e se na ~etrnaest do dvadeset osam ~vorova <uzdah>
-*/sm03070624210 tijekom no^i ^e na otvorenom moru okrenuti na jugozapadni i ju`ni vjetar <uzdah> koji se kratkotrajno mo`e poja~ati do trideset ~etiri ~vora
-*/sm03070624211 na krajnjem sjeveru jadrana bura i isto~njak <uzdah> od deset do dvadeset ~vorova
-*/sm03070624212 more od dva do tri od sredine no^i ponegdje ~etiri <uzdah> osobito na srednjem jadranu
-*/sm03070624213 vidljivost od deset to dvadeset kilometara <uzdah> od sredine no^i na sjevernom jadranu smanjena <uzdah>
-*/sm03070624214 na oko pet kilometara zbog ki{e <uzdah> promjenjivo obla~no mjestimice ki{a te pljuskovi s grmljavinom <uzdah>
-*/sm03070624215 osobito od sredine no^i na sjevernom i dijelu srednjeg jadrana
+*/sm03090624201 <glazba> sutra djelomice sun~ano i nestabilno mjestimice ki{a i pljuskovi s grmljavinom mogu^e izra`eniji na sjevernom jadranu te na zapadu unutra{njosti
+*/sm03090624202 vjetar umjeren jugozapadni a na jadranu jugo
+*/sm03090624203 najni`a temperatura od {esnaest do dvadeset jedan <uzdah> na jadranu izme}u dvadeset i dvadeset ~etiri
+*/sm03090624204 a najvi{a uglavnom od dvadeset pet do trideset stupnjeva
+*/sm03090624205 <uzdah> izvje{taj pomorskoga meteorolo{kog centra split dr`avnoga hidrometeorolo{kog zavoda <uzdah> u devetnaest sati upozorenje
+*/sm03090624206 mjestimice udari juga na otvorenom moru ponegdje i jugozapadnjaka <uzdah>
+*/sm03090624207 na krajnjem sjeveru jadrana i bure od trideset pet do ~etrdeset i pet ~vorova
+*/sm03090624208 ponegdje neverini osobito od sredine no^i na sjevernom <uzdah> i dijelu srednjeg jadrana
+*/sm03090624209 prognoza za jadran za prvih dvanaest sati <uzdah> jugo od deset do dvadeset poja~at ^e se na ~etrnaest do dvadeset osam ~vorova <uzdah>
+*/sm03090624210 tijekom no^i ^e na otvorenom moru okrenuti na jugozapadni i ju`ni vjetar <uzdah> koji se kratkotrajno mo`e poja~ati do trideset ~etiri ~vora
+*/sm03090624211 na krajnjem sjeveru jadrana bura i isto~njak <uzdah> od deset do dvadeset ~vorova
+*/sm03090624212 more od dva do tri od sredine no^i ponegdje ~etiri <uzdah> osobito na srednjem jadranu
+*/sm03090624213 vidljivost od deset to dvadeset kilometara <uzdah> od sredine no^i na sjevernom jadranu smanjena <uzdah>
+*/sm03090624214 na oko pet kilometara zbog ki{e <uzdah> promjenjivo obla~no mjestimice ki{a te pljuskovi s grmljavinom <uzdah>
+*/sm03090624215 osobito od sredine no^i na sjevernom i dijelu srednjeg jadrana
 */sz01010624201 sutra djelomice sun~ano s promjenjivom naoblakom mjestimice ki{a te pljuskovi s grmljavinom poslijepodne uglavnom u dalmaciji i lici a nave~er
 */sz01010624202 i drugdje <uzdah> vjetar slab na moru umjereno jugo i jugozapadnjak
 */sz01010624203 jutarnja temperatura od osam do trinaest na moru izme}u ~etrnaest i dvadeset <uzdah>
