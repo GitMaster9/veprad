@@ -1,0 +1,612 @@
+!ENTER	[!ENTER]	sil
+!EXIT	[!EXIT]	sil
+^e	[^e]	cc e
+{amac	[{amac]	S a m a c
+{esnaest	[{esnaest]	S e s n a e s t
+{est	[{est]	S e s t
+{esto{ezdeseti~etiri	[{esto{ezdeseti~etiri]	S e s t o S e z d e s e t i C e t i r i
+{esto~etrdesetisedam	[{esto~etrdesetisedam]	S e s t o C e t r d e s e t i s e d a m
+{estodvadesetiosam	[{estodvadesetiosam]	S e s t o d v a d e s e t i o s a m
+{ezdeseti{est	[{ezdeseti{est]	S e z d e s e t i S e s t
+{iri	[{iri]	S i r i
+~etiri	[~etiri]	C e t i r i
+~etiristodevedesetiosam	[~etiristodevedesetiosam]	C e t i r i s t o d e v e d e s e t i o s a m
+~etiristopedesetipet	[~etiristopedesetipet]	C e t i r i s t o p e d e s e t i p e t
+~etrdeset	[~etrdeset]	C e t r d e s e t
+~etrdesetijedan	[~etrdesetijedan]	C e t r d e s e t i j e d a n
+~etrdesetipet	[~etrdesetipet]	C e t r d e s e t i p e t
+~etrdesetitri	[~etrdesetitri]	C e t r d e s e t i t r i
+~etriri	[~etriri]	C e t r i r i
+~etristodvedesetidva	[~etristodvedesetidva]	C e t r i s t o d v e d e s e t i d v a
+~etrnaest	[~etrnaest]	C e t r n a e s t
+~vora	[~vora]	C v o r a
+~vorova	[~vorova]	C v o r o v a
+<greska> 	[<greska> ]	greska
+<papir>	[<papir>]	papir
+<sil>   	[<sil>   ]	sil
+<uzdah>	[<uzdah>]	uzdah
+a	[a]	a
+ali	[ali]	a l i
+anticiklonalno	[anticiklonalno]	a n t i c i k l o n a l n o
+anticiklonalni	[anticiklonalni]	a n t i c i k l o n a l n i
+anticiklone	[anticiklone]	a n t i c i k l o n e
+atmosferskog	[atmosferskog]	a t m o s f e r s k o g
+barem	[barem]	b a r e m
+bez	[bez]	b e z
+bit	[bit]	b i t
+biti	[biti]	b i t i
+botovo	[botovo]	b o t o v o
+brod	[brod]	b r o d
+budimpe{ta	[budimpe{ta]	b u d i m p e S t a
+bura	[bura]	b u r a
+bure	[bure]	b u r e
+buru	[buru]	b u r u
+burin	[burin]	b u r i n
+centimetara	[centimetara]	c e n t i m e t a r a
+centra	[centra]	c e n t r a
+ciklona	[ciklona]	c i k l o n a
+ciklonalno	[ciklonalno]	c i k l o n a l n o
+crnac	[crnac]	c r n a c
+dalmaciji	[dalmaciji]	d a l m a c i j i
+dalje	[dalje]	d a l j e
+dan	[dan]	d a n
+dana	[dana]	d a n a
+dana{nji	[dana{nji]	d a n a S N i
+danas	[danas]	d a n a s
+danju	[danju]	d a N u
+depresijsko	[depresijsko]	d e p r e s i j s k o
+deset	[deset]	d e s e t
+devedesetidevet	[devedesetidevet]	d e v e d e s e t i d e v e t
+devedesetisedam	[devedesetisedam]	d e v e d e s e t i s e d a m
+devet	[devet]	d e v e t
+devetnaest	[devetnaest]	d e v e t n a e s t
+dijela	[dijela]	d i j e l a
+dijelovima	[dijelovima]	d i j e l o v i m a
+dijelu	[dijelu]	d i j e l u
+dio	[dio]	d i o
+djelomi~no	[djelomi~no]	d j e l o m i C n o
+djelomice	[djelomice]	d j e l o m i c e
+dnevna	[dnevna]	d n e v n a
+do	[do]	d o
+dok	[dok]	d o k
+dolina	[dolina]	d o l i n a
+donji	[donji]	d o N i
+dr`avnog	[dr`avnog]	d r Z a v n o g
+dr`avnoga	[dr`avnoga]	d r Z a v n o g a
+drava	[drava]	d r a v a
+drugdje	[drugdje]	d r u g d j e
+drugom	[drugom]	d r u g o m
+du`	[du`]	d u Z
+du`a	[du`a]	d u Z a
+du`im	[du`im]	d u Z i m
+du`obale	[du`obale]	d u Z o b a l e
+dubrova~kom	[dubrova~kom]	d u b r o v a C k o m
+dubrova~kome	[dubrova~kome]	d u b r o v a C k o m e
+duljih	[duljih]	d u L i h
+dunav	[dunav]	d u n a v
+dva	[dva]	d v a
+dvadeset	[dvadeset]	d v a d e s e t
+dvadeseti{est	[dvadeseti{est]	d v a d e s e t i S e s t
+dvadeseti~etiri	[dvadeseti~etiri]	d v a d e s e t i C e t i r i
+dvadesetidva	[dvadesetidva]	d v a d e s e t i d v a
+dvadesetijedan	[dvadesetijedan]	d v a d e s e t i j e d a n
+dvadesetipet	[dvadesetipet]	d v a d e s e t i p e t
+dvadesetitri	[dvadesetitri]	d v a d e s e t i t r i
+dvanaest	[dvanaest]	d v a n a e s t
+dvjesto	[dvjesto]	d v j e s t o
+dvjesto{ezdeset	[dvjesto{ezdeset]	d v j e s t o S e z d e s e t
+dvjesto~etrdeset	[dvjesto~etrdeset]	d v j e s t o C e t r d e s e t
+dvjesto~etrdeseti{est	[dvjesto~etrdeseti{est]	d v j e s t o C e t r d e s e t i S e s t
+dvjesto~etrdeseti~etiri	[dvjesto~etrdeseti~etiri]	d v j e s t o C e t r d e s e t i C e t i r i
+dvjesto~etrdesetipet	[dvjesto~etrdesetipet]	d v j e s t o C e t r d e s e t i p e t
+dvjesto~etrnaest	[dvjesto~etrnaest]	d v j e s t o C e t r n a e s t
+dvjestodevet	[dvjestodevet]	d v j e s t o d e v e t
+dvjestodva	[dvjestodva]	d v j e s t o d v a
+dvjestodvadeseti~etiri	[dvjestodvadeseti~etiri]	d v j e s t o d v a d e s e t i C e t i r i
+dvjestoosam	[dvjestoosam]	d v j e s t o o s a m
+dvjestoosamdesetidevet	[dvjestoosamdesetidevet]	d v j e s t o o s a m d e s e t i d e v e t
+dvjestopedesetiosam	[dvjestopedesetiosam]	d v j e s t o p e d e s e t i o s a m
+dvjestosedamdesetitri	[dvjestosedamdesetitri]	d v j e s t o s e d a m d e s e t i t r i
+dvjestotridesetitri	[dvjestotridesetitri]	d v j e s t o t r i d e s e t i t r i
+europske	[europske]	e u r o p s k e
+fronta	[fronta]	f r o n t a
+frontalni	[frontalni]	f r o n t a l n i
+frontalnim	[frontalnim]	f r o n t a l n i m
+frontom	[frontom]	f r o n t o m
+gdje	[gdje]	g d j e
+gorju	[gorju]	g o r j u
+gorskim	[gorskim]	g o r s k i m
+gorskoj	[gorskoj]	g o r s k o j
+gorskom	[gorskom]	g o r s k o m
+gorskome	[gorskome]	g o r s k o m e
+gotovo	[gotovo]	g o t o v o
+greben	[greben]	g r e b e n
+grmljavina	[grmljavina]	g r m L a v i n a
+grmljavine	[grmljavine]	g r m L a v i n e
+grmljavinom	[grmljavinom]	g r m L a v i n o m
+hidrometeorolo{kog	[hidrometeorolo{kog]	h i d r o m e t e o r o l o S k o g
+hladna	[hladna]	h l a d n a
+hladnije	[hladnije]	h l a d n i j e
+hladnom	[hladnom]	h l a d n o m
+hrvatska	[hrvatska]	h r v a t s k a
+hrvatskoj	[hrvatskoj]	h r v a t s k o j
+hrvatsku	[hrvatsku]	h r v a t s k u
+i	[i]	i
+ili	[ili]	i l i
+ilok	[ilok]	i l o k
+ista	[ista]	i s t a
+iste	[iste]	i s t e
+isto~ni	[isto~ni]	i s t o C n i
+isto~nim	[isto~nim]	i s t o C n i m
+isto~noj	[isto~noj]	i s t o C n o j
+isto~njak	[isto~njak]	i s t o C N a k
+istok	[istok]	i s t o k
+istoku	[istoku]	i s t o k u
+izgledi	[izgledi]	i z g l e d i
+izgledima	[izgledima]	i z g l e d i m a
+izjedna~enog	[izjedna~enog]	i z j e d n a C e n o g
+izme}u	[izme}u]	i z m e dz u
+iznad	[iznad]	i z n a d
+izvje{^e	[izvje{^e]	i z v j e S cc e
+izvje{taj	[izvje{taj]	i z v j e S t a j
+ja~a	[ja~a]	j a C a
+ja~anju	[ja~anju]	j a C a N u
+ja~e	[ja~e]	j a C e
+jadran	[jadran]	j a d r a n
+jadrana	[jadrana]	j a d r a n a
+jadranom	[jadranom]	j a d r a n o m
+jadranu	[jadranu]	j a d r a n u
+jak	[jak]	j a k
+jaka	[jaka]	j a k a
+jako	[jako]	j a k o
+jasenovac	[jasenovac]	j a s e n o v a c
+je	[je]	j e
+jedan	[jedan]	j e d a n
+jedanaest	[jedanaest]	j e d a n a e s t
+jedanaeset	[jedanaeset]	j e d a n a e s t
+jednog	[jednog]	j e d n o g
+jo{	[jo{]	j o S
+ju`ni	[ju`ni]	j u Z n i
+ju`nog	[ju`nog]	j u Z n o g
+ju`noga	[ju`noga]	j u Z n o g a
+ju`noj	[ju`noj]	j u Z n o j
+ju`nom	[ju`nom]	j u Z n o m
+ju`nome	[ju`nome]	j u Z n o m e
+jug	[jug]	j u g
+juga	[juga]	j u g a
+jugo	[jugo]	j u g o
+jugoisto~ni	[jugoisto~ni]	j u g o i s t o C n i
+jugozapada	[jugozapada]	j u g o z a p a d a
+jugozapadni	[jugozapadni]	j u g o z a p a d n i
+jugozapadnjak	[jugozapadnjak]	j u g o z a p a d N a k
+jutarnja	[jutarnja]	j u t a r N a
+jutra	[jutra]	j u t r a
+jutro	[jutro]	j u t r o
+kada	[kada]	k a d a
+kanalu	[kanalu]	k a n a l u
+kao	[kao]	k a o
+karlovac	[karlovac]	k a r l o v a c
+ki{a	[ki{a]	k i S a
+ki{e	[ki{e]	k i S e
+ki{om	[ki{om]	k i S o m
+ki{ovito	[ki{ovito]	k i S o v i t o
+ki{u	[ki{u]	k i S u
+kilometara	[kilometara]	k i l o m e t a r a
+kilometra	[kilometra]	k i l o m e t r a
+koje	[koje]	k o j e
+koji	[koji]	k o j i
+kojim	[kojim]	k o j i m
+koli~ina	[koli~ina]	k o l i C i n a
+kopnenom	[kopnenom]	k o p n e n o m
+kostajnica	[kostajnica]	k o s t a j n i c a
+kotaru	[kotaru]	k o t a r u
+kra^a	[kra^a]	k r a cc a
+kraja	[kraja]	k r a j a
+krajem	[krajem]	k r a j e m
+krajeva	[krajeva]	k r a j e v a
+krajevima	[krajevima]	k r a j e v i m a
+kraju	[kraju]	k r a j u
+kratkotrajan	[kratkotrajan]	k r a t k o t r a j a n
+kratkotrajna	[kratkotrajna]	k r a t k o t r a j n a
+kratkotrajne	[kratkotrajne]	k r a t k o t r a j n e
+kratkotrajni	[kratkotrajni]	k r a t k o t r a j n i
+kratkotrajnim	[kratkotrajnim]	k r a t k o t r a j n i m
+kratkotrajno	[kratkotrajno]	k r a t k o t r a j n o
+kratkotrajnog	[kratkotrajnog]	k r a t k o t r a j n o g
+kratkotrajnom	[kratkotrajnom]	k r a t k o t r a j n o m
+kratkotrajnu	[kratkotrajnu]	k r a t k o t r a j n u
+kre^e	[kre^e]	k r e cc e
+kru`i	[kru`i]	k r u Z i
+kupa	[kupa]	k u p a
+levant	[levant]	l e v a n t
+levanta	[levanta]	l e v a n t a
+lici	[lici]	l i c i
+ligurskim	[ligurskim]	l i g u r s k i m
+ligurskog	[ligurskog]	l i g u r s k o g
+lokalni	[lokalni]	l o k a l n i
+magla	[magla]	m a g l a
+magle	[magle]	m a g l e
+maglom	[maglom]	m a g l o m
+malo	[malo]	m a l o
+malom	[malom]	m a l o m
+malu	[malu]	m a l u
+manja	[manja]	m a N a
+manju	[manju]	m a N u
+meteorolo{kog	[meteorolo{kog]	m e t e o r o l o S k o g
+meteorolo{koga	[meteorolo{koga]	m e t e o r o l o S k o g a
+metkovi^	[metkovi^]	m e t k o v i cc
+miholjac	[miholjac]	m i h o L a c
+minimalna	[minimalna]	m i n i m a l n a
+minus	[minus]	m i n u s
+mjestimi~nom	[mjestimi~nom]	m j e s t i m i C n o m
+mjestimi~nu	[mjestimi~nu]	m j e s t i m i C n u
+mjestimice	[mjestimice]	m j e s t i m i c e
+mo`e	[mo`e]	m o Z e
+mogu^	[mogu^]	m o g u cc
+mogu^a	[mogu^a]	m o g u cc a
+mogu^e	[mogu^e]	m o g u cc e
+mogu^i	[mogu^i]	m o g u cc i
+mogu^nost	[mogu^nost]	m o g u cc n o s t
+mora	[mora]	m o r a
+more	[more]	m o r e
+morem	[morem]	m o r e m
+moru	[moru]	m o r u
+mraz	[mraz]	m r a z
+na	[na]	n a
+nad	[nad]	n a d
+najni`a	[najni`a]	n a j n i Z a
+najprije	[najprije]	n a j p r i j e
+najvi{a	[najvi{a]	n a j v i S a
+najvi{e	[najvi{e]	n a j v i S e
+naobla~enje	[naobla~enje]	n a o b l a C e N e
+naobla~iti	[naobla~iti]	n a o b l a C i t i
+naoblaka	[naoblaka]	n a o b l a k a
+naoblake	[naoblake]	n a o b l a k e
+naoblakom	[naoblakom]	n a o b l a k o m
+naoblaku	[naoblaku]	n a o b l a k u
+nave~er	[nave~er]	n a v e C e r
+nedjelju	[nedjelju]	n e d j e L u
+ne{to	[ne{to]	n e S t o
+nego	[nego]	n e g o
+nekim	[nekim]	n e k i m
+neretva	[neretva]	n e r e t v a
+nestabilan	[nestabilan]	n e s t a b i l a n
+nestabilna	[nestabilna]	n e s t a b i l n a
+nestabilni	[nestabilni]	n e s t a b i l n i
+nestabilno	[nestabilno]	n e s t a b i l n o
+nestabilnog	[nestabilnog]	n e s t a b i l n o g
+neverin	[neverin]	n e v e r i n
+neverina	[neverina]	n e v e r i n a
+neverini	[neverini]	n e v e r i n i
+ni`a	[ni`a]	n i Z a
+nizinama	[nizinama]	n i z i n a m a
+no	[no]	n o
+no^	[no^]	n o cc
+no^as	[no^as]	n o cc a s
+no^i	[no^i]	n o cc i
+no^u	[no^u]	n o cc u
+nova	[nova]	n o v a
+nula	[nula]	n u l a
+njegov	[njegov]	N e g o v
+o	[o]	o
+o~ekuje	[o~ekuje]	o C e k u j e
+o~ekuju	[o~ekuju]	o C e k u j u
+obale	[obale]	o b a l e
+obalu	[obalu]	o b a l u
+obilnije	[obilnije]	o b i l n i j e
+obla~nije	[obla~nije]	o b l a C n i j e
+obla~no	[obla~no]	o b l a C n o
+oblaka	[oblaka]	o b l a k a
+oborine	[oborine]	o b o r i n e
+oborina	[oborina]	o b o r i n a
+od	[od]	o d
+odmi~e	[odmi~e]	o d m i C e
+oja~alo	[oja~alo]	o j a C a l o
+oko	[oko]	o k o
+okrenut	[okrenut]	o k r e n u t
+okrenuti	[okrenuti]	o k r e n u t i
+olujna	[olujna]	o l u j n a
+olujnim	[olujnim]	o l u j n i m
+olujno	[olujno]	o l u j n o
+osam	[osam]	o s a m
+osamdesetijedan	[osamdesetijedan]	o s a m d e s e t i j e d a n
+osamdesetisedam	[osamdesetisedam]	o s a m d e s e t i s e d a m
+osamnaest	[osamnaest]	o s a m n a e s t
+osijek	[osijek]	o s i j e k
+oslabio	[oslabio]	o s l a b i o
+oslabit	[oslabit]	o s l a b i t
+oslabiti	[oslabiti]	o s l a b i t i
+oslabjeti	[oslabjeti]	o s l a b j e t i
+oslabljen	[oslabljen]	o s l a b L e n
+oslabljena	[oslabljena]	o s l a b L e n a
+oslabljenom	[oslabljenom]	o s l a b L e n o m
+osmanaest	[osmanaest]	o s m a n a e s t
+osvje`enje	[osvje`enje]	o s v j e Z e N e
+osobito	[osobito]	o s o b i t o
+ostalom	[ostalom]	o s t a l o m
+otvorenom	[otvorenom]	o t v o r e n o m
+otvorenome	[otvorenome]	o t v o r e n o m e
+ovog	[ovog]	o v o g
+pasti	[pasti]	p a s t i
+pedeset	[pedeset]	p e d e s e t
+pedesetipet	[pedesetipet]	p e d e s e t i p e t
+pet	[pet]	p e t
+petak	[petak]	p e t a k
+petnaest	[petnaest]	p e t n a e s t
+petsto~etrdesetidevet	[petsto~etrdesetidevet]	p e t s t o C e t r d e s e t i d e v e t
+petstojedanaest	[petstojedanaest]	p e t s t o j e d a n a e s t
+petstopedesetijedan	[petstopedesetijedan]	p e t s t o p e d e s e t i j e d a n
+petstosedamdeset	[petstosedamdeset]	p e t s t o s e d a m d e s e t
+plitka	[plitka]	p l i t k a
+plitko	[plitko]	p l i t k o
+pljusak	[pljusak]	p L u s a k
+pljuska	[pljuska]	p L u s k a
+pljuskova	[pljuskova]	p L u s k o v a
+pljuskove	[pljuskove]	p L u s k o v e
+pljuskovi	[pljuskovi]	p L u s k o v i
+pljuskovima	[pljuskovima]	p L u s k o v i m a
+po	[po]	p o
+po~etku	[po~etku]	p o C e t k u
+po~inje	[po~inje]	p o C i N e
+podne	[podne]	p o d n e
+podno	[podno]	p o d n o
+podru~jima	[podru~jima]	p o d r u C j i m a
+podru~ju	[podru~ju]	p o d r u C j u
+pogor{anje	[pogor{anje]	p o g o r S a n j e
+poja~an	[poja~an]	p o j a C a n
+poja~ana	[poja~ana]	p o j a C a n a
+poja~ano	[poja~ano]	p o j a C a n o
+poja~anu	[poja~anu]	p o j a C a n u
+poja~anju	[poja~anju]	p o j a C a N u
+poja~at	[poja~at]	p o j a C a t
+poja~ati	[poja~ati]	p o j a C a t i
+polako	[polako]	p o l a k o
+polje	[polje]	p o L e
+pomi~e	[pomi~e]	p o m i C e
+pomorskog	[pomorskog]	p o m o r s k o g
+pomorskoga	[pomorskoga]	p o m o r s k o g a
+ponajprije	[ponajprije]	p o n a j p r i j e
+ponedjeljak	[ponedjeljak]	p o n e d j e L a k
+ponedjeljka	[ponedjeljka]	p o n e d j e L k a
+ponegdje	[ponegdje]	p o n e g d j e
+ponovno	[ponovno]	p o n o v n o
+popunjava	[popunjava]	p o p u N a v a
+porast	[porast]	p o r a s t
+poreme^aj	[poreme^aj]	p o r e m e cc a j
+poreme^ajem	[poreme^ajem]	p o r e m e cc a j e m
+posebice	[posebice]	p o s e b i c e
+poslije	[poslije]	p o s l i j e
+poslijepodne	[poslijepodne]	p o s l i j e p o d n e
+postupan	[postupan]	p o s t u p a n
+postupno	[postupno]	p o s t u p n o
+postupnom	[postupnom]	p o s t u p n o m
+posvuda	[posvuda]	p o s v u d a
+potkraj	[potkraj]	p o t k r a j
+pove~anu	[pove~anu]	p o v e C a n u
+povi{enog	[povi{enog]	p o v i S e n o g
+povi{enoga	[povi{enoga]	p o v i S e n o g a
+povla~i	[povla~i]	p o v l a C i
+povremeno	[povremeno]	p o v r e m e n o
+predjelima	[predjelima]	p r e d j e l i m a
+preko	[preko]	p r e k o
+prema	[prema]	p r e m a
+premje{ta	[premje{ta]	p r e m j e S t a
+preostalom	[preostalom]	p r e o s t a l o m
+prestanak	[prestanak]	p r e s t a n a k
+prestati 	[prestati ]	p r e s t a t i
+prete`ito	[prete`ito]	p r e t e Z i t o
+prete`no	[prete`no]	p r e t e Z n o
+prevladavat	[prevladavat]	p r e v l a d a v a t
+prevladavati	[prevladavati]	p r e v l a d a v a t i
+pribli`ava	[pribli`ava]	p r i b l i Z a v a
+prijepodne	[prijepodne]	p r i j e p o d n e
+primi~e	[primi~e]	p r i m i C e
+pristi`e	[pristi`e]	p r i s t i Z e
+pritje~e	[pritje~e]	p r i t j e C e
+produbljava	[produbljava]	p r o d u b L a v a
+prognoza	[prognoza]	p r o g n o z a
+prolazna	[prolazna]	p r o l a z n a
+prolazno	[prolazno]	p r o l a z n o
+promjene	[promjene]	p r o m j e n e
+promjenljiva	[promjenljiva]	p r o m j e n L i v a
+promjenljivo	[promjenljivo]	p r o m j e n L i v o
+promjenljivom	[promjenljivom]	p r o m j e n L i v o m
+promjenljivu	[promjenljivu]	p r o m j e n L i v u
+promjenjivo	[promjenjivo]	p r o m j e N i v o
+promjenjivom	[promjenjivom]	p r o m j e N i v o m
+promjenjivu	[promjenjivu]	p r o m j e N i v u
+prostrana	[prostrana]	p r o s t r a n a
+prostrano	[prostrano]	p r o s t r a n o
+pru`a	[pru`a]	p r u Z a
+prvih	[prvih]	p r v i h
+prvo	[prvo]	p r v o
+puhat	[puhat]	p u h a t
+radenci	[radenci]	r a d e n c i
+razdoblja	[razdoblja]	r a z d o b L a
+razdobljima	[razdobljima]	r a z d o b L i m a
+razmjerno	[razmjerno]	r a z m j e r n o
+razvedravanje	[razvedravanje]	r a z v e d r a v a N e
+rijeka	[rijeka]	r i j e k a
+s	[s]	s
+sa	[sa]	s a
+samo	[samo]	s a m o
+sati	[sati]	s a t i
+sava	[sava]	s a v a
+se	[se]	s e
+sedam	[sedam]	s e d a m
+sedamdeset	[sedamdeset]	s e d a m d e s e t
+sedamdeseti~etiri	[sedamdeseti~etiri]	s e d a m d e s e t i C e t i r i
+sedamdesetiosam	[sedamdesetiosam]	s e d a m d e s e t i o s a m
+sedamnaest	[sedamnaest]	s e d a m n a e s t
+sedamstoosam	[sedamstoosam]	s e d a m s t o o s a m
+sedamstopedesetidva	[sedamstopedesetidva]	s e d a m s t o p e d e s e t i d v a
+sedamstotrideseti~etiri	[sedamstotrideseti~etiri]	s e d a m s t o t r i d e s e t i C e t i r i
+sjever	[sjever]	s j e v e r
+sjevera	[sjevera]	s j e v e r a
+sjeverni	[sjeverni]	s j e v e r n i
+sjevernim	[sjevernim]	s j e v e r n i m
+sjevernog	[sjevernog]	s j e v e r n o g
+sjevernom	[sjevernom]	s j e v e r n o m
+sjevernome	[sjevernome]	s j e v e r n o m e
+sjeveroisto~ni	[sjeveroisto~ni]	s j e v e r o i s t o C n i
+sjeveroisto~njak	[sjeveroisto~njak]	s j e v e r o i s t o C N a k
+sjeveroistok	[sjeveroistok]	s j e v e r o i s t o k
+sjeverozapada	[sjeverozapada]	s j e v e r o z a p a d a
+sjeverozapadni	[sjeverozapadni]	s j e v e r o z a p a d n i
+sjeverozapadnim	[sjeverozapadnim]	s j e v e r o z a p a d n i m
+sjeverozapadnog	[sjeverozapadnog]	s j e v e r o z a p a d n o g
+sjeverozapadnom	[sjeverozapadnom]	s j e v e r o z a p a d n o m
+sjeverozapadnjak	[sjeverozapadnjak]	s j e v e r o z a p a d N a k
+sjeveru	[sjeveru]	s j e v e r u
+skrenut	[skrenut]	s k r e n u t
+skretanje	[skretanje]	s k r e t a N e
+skretanju	[skretanju]	s k r e t a N u
+slab	[slab]	s l a b
+slaba	[slaba]	s l a b a
+slabe	[slabe]	s l a b e
+slabi	[slabi]	s l a b i
+slabiti	[slabiti]	s l a b i t i
+slabjeti	[slabjeti]	s l a b j e t i
+slabljenju	[slabljenju]	s l a b L e N u
+slabo	[slabo]	s l a b o
+slabu	[slabu]	s l a b u
+slavoniji	[slavoniji]	s l a v o n i j i
+slavonski	[slavonski]	s l a v o n s k i
+slijede^eg	[slijede^eg]	s l i j e d e cc e g
+slijede^ih	[slijede^ih]	s l i j e d e cc i h
+smanjena	[smanjena]	s m a N e n a
+smirivanju	[smirivanju]	s m i r i v a N u
+smjera	[smjera]	s m j e r a
+smo	[smo]	s m o
+sni`enog	[sni`enog]	s n i Z e n o g
+snijeg	[snijeg]	s n i j e g
+snijega	[snijega]	s n i j e g a
+snijegom	[snijegom]	s n i j e g o m
+split	[split]	s p l i t
+sporo	[sporo]	s p o r o
+sredi{njim	[sredi{njim]	s r e d i S N i m
+sredi{njoj	[sredi{njoj]	s r e d i S N o j
+sredine	[sredine]	s r e d i n e
+srednjeg	[srednjeg]	s r e d N e g
+srednjega	[srednjega]	s r e d N e g a
+srednjem	[srednjem]	s r e d N e m
+sredozemlja	[sredozemlja]	s r e d o z e m L a
+sredozemljem	[sredozemljem]	s r e d o z e m L e m
+stanje	[stanje]	s t a N e
+sto	[sto]	s t o
+sto~etrdesetidva	[sto~etrdesetidva]	s t o C e t r d e s e t i d v a
+stodevedesetidva	[stodevedesetidva]	s t o d e v e d e s e t i d v a
+stodvanaest	[stodvanaest]	s t o d v a n a e s t
+stojedanaest	[stojedanaest]	s t o j e d a n a e s t
+stoosamdesetidva	[stoosamdesetidva]	s t o o s a m d e s e t i d v a
+stopedesetiosam	[stopedesetiosam]	s t o p e d e s e t i o s a m
+stosedamnaest	[stosedamnaest]	s t o s e d a m n a e s t
+stupanj	[stupanj]	s t u p a N
+stupnja	[stupnja]	s t u p N a
+stupnjeva	[stupnjeva]	s t u p N e v a
+su	[su]	s u
+subotu	[subotu]	s u b o t u
+sumaglica	[sumaglica]	s u m a g l i c a
+sumaglice	[sumaglice]	s u m a g l i c e
+sun~ana	[sun~ana]	s u n C a n a
+sun~anih	[sun~anih]	s u n C a n i h
+sun~anim	[sun~anim]	s u n C a n i m
+sun~ano	[sun~ano]	s u n C a n o
+sun~anog	[sun~anog]	s u n C a n o g
+sustav	[sustav]	s u s t a v
+sustavom	[sustavom]	s u s t a v o m
+sutra	[sutra]	s u t r a
+sve	[sve]	s v e
+svje`e	[svje`e]	s v j e Z e
+svje`ije	[svje`ije]	s v j e Z i j e
+te	[te]	t e
+temperatura	[temperatura]	t e m p e r a t u r a
+temperature	[temperature]	t e m p e r a t u r e
+terezino	[terezino]	t e r e z i n o
+tiho	[tiho]	t i h o
+tijekom	[tijekom]	t i j e k o m
+tirenskim	[tirenskim]	t i r e n s k i m
+tirenskog	[tirenskog]	t i r e n s k o g
+tjedna	[tjedna]	t j e d n a
+tlaka	[tlaka]	t l a k a
+to	[to]	t o
+toplije	[toplije]	t o p l i j e
+toplo	[toplo]	t o p l o
+tramontana	[tramontana]	t r a m o n t a n a
+tri	[tri]	t r i
+trideset	[trideset]	t r i d e s e t
+tridesetijedan	[tridesetijedan]	t r i d e s e t i j e d a n
+tridesetipet	[tridesetipet]	t r i d e s e t i p e t
+trideseti{est	[trideseti{est]	t r i d e s e t i S e s t
+tridesetitri	[tridesetitri]	t r i d e s e t i t r i
+trinaest	[trinaest]	t r i n a e s t
+tristo	[tristo]	t r i s t o
+tristojedanaeset	[tristojedanaeset]	t r i s t o j e d a n a e s e t
+tristoosamdesetijedan	[tristoosamdesetijedan]	t r i s t o o s a m d e s e t i j e d a n
+tristotridesetidevet	[tristotridesetidevet]	t r i s t o t r i d e s e t i d e v e t
+u	[u]	u
+udare	[udare]	u d a r e
+udari	[udari]	u d a r i
+udarima	[udarima]	u d a r i m a
+uglavnom	[uglavnom]	u g l a v n o m
+ujutro	[ujutro]	u j u t r o
+umjeren	[umjeren]	u m j e r e n
+umjerena	[umjerena]	u m j e r e n a
+umjereni	[umjereni]	u m j e r e n i
+umjereno	[umjereno]	u m j e r e n o
+umjerenom	[umjerenom]	u m j e r e n o m
+umjerenu	[umjerenu]	u m j e r e n u
+una	[una]	u n a
+unutra{njosti	[unutra{njosti]	u n u t r a S N o s t i
+upozorenje	[upozorenje]	u p o z o r e N e
+upozorenjem	[upozorenjem]	u p o z o r e N e m
+utorak	[utorak]	u t o r a k
+utorka	[utorka]	u t o r k a
+uvijek	[uvijek]	u v i j e k
+uz	[uz]	u z
+uzburkano	[uzburkano]	u z b u r k a n o
+valovito	[valovito]	v a l o v i t o
+ve^a	[ve^a]	v e cc a
+ve^e	[ve^e]	v e cc e
+ve^eg	[ve^eg]	v e cc e g
+ve^em	[ve^em]	v e cc e m
+ve^i	[ve^i]	v e cc i
+ve^ini	[ve^ini]	v e cc i n i
+ve^inom	[ve^inom]	v e cc i n o m
+ve~eras	[ve~eras]	v e C e r a s
+vedro	[vedro]	v e d r o
+velebita	[velebita]	v e l e b i t a
+velebitskom	[velebitskom]	v e l e b i t s k o m
+vi{a	[vi{a]	v i S a
+vi{e	[vi{e]	v i S e
+vidljivost	[vidljivost]	v i d L i v o s t
+vikend	[vikend]	v i k e n d
+visini	[visini]	v i s i n i
+vjetar	[vjetar]	v j e t a r
+vjetra	[vjetra]	v j e t r a
+vjetrovito	[vjetrovito]	v j e t r o v i t o
+vla`ni	[vla`ni]	v l a Z n i
+vodostaj	[vodostaj]	v o d o s t a j
+vodostaju	[vodostaju]	v o d o s t a j u
+vremena	[vremena]	v r e m e n a
+vremenska	[vremenska]	v r e m e n s k a
+vrijeme	[vrijeme]	v r i j e m e
+vrlo	[vrlo]	v r l o
+vukovar	[vukovar]	v u k o v a r
+za	[za]	z a
+zadr`ava	[zadr`ava]	z a d r Z a v a
+zagreb	[zagreb]	z a g r e b
+zapada	[zapada]	z a p a d a
+zapadni	[zapadni]	z a p a d n i
+zapadnim	[zapadnim]	z a p a d n i m
+zapadnoeuropske	[zapadnoeuropske]	z a p a d n o e u r o p s k e
+zapadnog	[zapadnog]	z a p a d n o g
+zapadnom	[zapadnom]	z a p a d n o m
+zapadnjak	[zapadnjak]	z a p a d N a k
+zapuhat	[zapuhat]	z a p u h a t
+zatim	[zatim]	z a t i m
+zavoda	[zavoda]	z a v o d a
+zbog	[zbog]	z b o g
+znatno	[znatno]	z n a t n o
+zrak	[zrak]	z r a k
+zraka	[zraka]	z r a k a
